@@ -38,3 +38,4 @@ node_modules
 db_data
 
 prisma/migrations
+.env
