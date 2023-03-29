@@ -8,7 +8,7 @@ model Student {
 }
 generator client {
   provider = "prisma-client-js"
-  output = "../src/modules/infrastructure/prismaClient"
+  output = "../src/modules/infrastructure/prisma/client"
 }
 
 datasource db {

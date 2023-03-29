@@ -39,4 +39,4 @@ db_data
 
 prisma/migrations
 .env
-src/modules/infrastructure/prismaClient
+src/modules/infrastructure/prisma/client/**/*
